@@ -4,7 +4,7 @@ Geek Squad Appointment: Complete Guide
 
 In today’s tech-driven world, electronics and gadgets are integral parts of our daily lives. When something goes wrong, it can be frustrating, especially if you're not well-versed in technology. That's where Geek Squad comes in. Geek Squad, a subsidiary of Best Buy, offers expert services to assist with everything from fixing malfunctioning devices to setting up new electronics or troubleshooting software issues. Whether you're having problems with your computer, need help setting up a new smart device, or want to protect your tech with a warranty, Geek Squad is ready to help.
 
-.. image:: login.gif
+.. image:: book-appointment.png
    :width: 300px
    :align: center
    :target: https://geeksquadappointment.pages.dev/
